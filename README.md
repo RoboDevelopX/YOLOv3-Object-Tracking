@@ -98,8 +98,3 @@ There is a test video uploaded in the data/video folder called test.mp4. If you 
 python object_tracker.py --video ./data/video/test.mp4 --output ./data/video/results.avi
 ```
 --------------
-
-## 📧 Acknowledgments
-* [Yolov3 TensorFlow Amazing Implementation](https://github.com/zzh8829/yolov3-tf2)
-* [Deep SORT Repository](https://github.com/nwojke/deep_sort)
-* [Yolo v3 official paper](https://arxiv.org/abs/1804.02767)
